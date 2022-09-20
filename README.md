@@ -26,8 +26,8 @@ You can use Linux, Mac or Windows. Just make sure your machine has the following
 
 # Resources and Links
 
-* [Explore and analyze data with R](https://docs.microsoft.com/en-us/training/modules/explore-analyze-data-with-r) - MS Learn module 
-* [GitHub Codespaces](https://github.com/features/codespaces) - Available with GitHub Enterprise and GitHub Education
-* [Dev Containers](https://containers.dev/) - Overview and specification
-* [Dev Containers in Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-containers) - Remote-Containers extension 
-* [Visual Studio Code](https://code.visualstudio.com/) - Free editor available for Windows, Mac and Linux
+* [Explore and analyze data with R](https://docs.microsoft.com/en-us/training/modules/explore-analyze-data-with-r?WT.mc_id=academic-70545-cacaste) - MS Learn module 
+* [GitHub Codespaces](https://github.com/features/codespaces?WT.mc_id=academic-70545-cacaste) - Available with GitHub Enterprise and GitHub Education
+* [Dev Containers](https://containers.dev/?WT.mc_id=academic-70545-cacaste) - Overview and specification
+* [Dev Containers in Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-containers?WT.mc_id=academic-70545-cacaste) - Remote-Containers extension 
+* [Visual Studio Code](https://code.visualstudio.com/?WT.mc_id=academic-70545-cacaste) - Free editor available for Windows, Mac and Linux
