@@ -6,7 +6,7 @@ Let's imagine that we are a Swedish Italian Wine and Chocolate company that woul
 
 * Speakers: [Carlotta Castelluccio](https://www.linkedin.com/in/carlotta-castelluccio/), Cloud Advocate at Microsoft
             [Korey Stegared-Pace](https://www.linkedin.com/in/koreypace/), Cloud Advocate at Microsoft
-* Presentation video: [YouTube]() 
+* Presentation video: [YouTube](https://www.youtube.com/watch?v=14mhPzxMCTs) 
 
 You can recreate the demo in the session using the steps outlined below.
 
